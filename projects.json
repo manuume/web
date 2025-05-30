@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Smile Detection App",
+    "description": "A fun web app that captures selfies when a user smiles using CNN.",
+    "link": "https://github.com/manuume/selfie_detection.git",
+    "image": "https://raw.githubusercontent.com/yourusername/smile-detector/main/demo.png"
+  },
+  {
+    "title": "Audio Genre Classifier",
+    "description": "MLOps-based system to predict music genre using CNN + MFCCs.",
+    "link": "https://github.com/manuume/music_genre_prediction_mlops_project_MSA24025.git",
+    "image": "https://raw.githubusercontent.com/yourusername/audio-genre-classifier/main/demo.png"
+  }
+]
